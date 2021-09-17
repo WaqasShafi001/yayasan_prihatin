@@ -1,0 +1,42 @@
+[
+    {
+        "tajuk" : "Jelajah Pendidikan Prihatin",
+        "image" : "assets/JELAJAH1.png",
+        "teks" : "Siri jelajah ke seluruh negara bagi melebar luas akses pendidikan tinggi seterusnya memberi peluang kedua kepada lepasan SPM yang layak untuk melanjutkan pengajian ke peringkat yang lebih tinggi. Tumpuan diberikan kepada masyarakat luar bandar, pedalaman, orang asal dan miskin bandar."
+    },
+    {
+        "tajuk" : "Jelajah Prihatin Covid-19",
+        "image" : "assets/COVID.png",
+        "teks" : "Siri jelajah dengan kerjasama Kementerian Kesihatan Malaysia dalam memupuk kesedaran yang tinggi di kalangan masyarakat dalam menjaga kesihatan yang baik terutamanya dalam memutuskan rantaian Covid-19."
+    },
+    {
+        "tajuk" : "Konvensyen Pendidikan Bumiputra",
+        "image" : "assets/KONVENSYEN.jpg",
+        "teks" : "Mengumpul para pelajar dan pemimpin muda IPTA/IPTS dalam platform yang turut disertai para ilmuan, ahli korporat dan juga pemimpin negara dalam memperkasa isu pendidikan terutamanya di kalangan masyarakat Bumiputera. Konvensyen akan menumpukan resolusi berkenaan hasrat, cadangan dan pandangan mengenai arah tuju dan pembangunan Pendidikan Bumiputera Malaysia."
+    },
+    {
+        "tajuk" : "Akademi Kepimpinan Prihatin",
+        "image" : "assets/akp.png",
+        "teks" : "Program bagi mendidikan dan mendedahkan para pelapis pemimpin masa depan dengan penekanan ke arah modal insan yang cukup ilmunya, dunia dan akhirat. Antara kursus-kursus yang harus dilalui adalah seperti pengucapan awam, intergriti, konsep penyampaian berkesan dan juga jati diri yang unggul."
+    },
+    {
+        "tajuk" : "Tuisyen Prihatin Perdana",
+        "image" : "assets/TUISYEN.jpg",
+        "teks" : "Program tuisyen percuma dengan mensasarkan pelajar yang akan menghadapi peperiksaan besar seperti PMR dan SPM terutamanya bagi mata pelajaran kritikal seperti sains dan matematik di kalangan pelajar yang berada di perumahan PPRT di Wilayah Persekutuan."
+    },
+    {
+        "tajuk" : "Program Prihatin Rakyat",
+        "image" : "assets/PRIHATINRAKYAT.jpg",
+        "teks" : "Program bersama rakyat terutamanya yang ditimpa musibah seperti banjir dan bencana bagi menyampaikan bantuan dan mendengar keluh kesah mereka dalam meniti kehidupan."
+    },
+    {
+        "tajuk" : "Tabung Pendidikan Anak Bangsa",
+        "image" : "assets/TDAB.png",
+        "teks" : "Tabung yang diwujudkan bagi membantu para pelajar yang memerlukan bantuan terutamanya dari segi kewangan seperti dari golongan asnaf, masyarakat luar bandar dan miskin bandar melalui skim yang ditetapkan seperti zakat, biasiswa dan dermasiswa."
+    },
+    {
+        "tajuk" : "Mengubah Destini Orang Asli (MDOA)",
+        "image" : "assets/ORANG-ASLI.jpg",
+        "teks" : "Siri jelajah berkala menggunakan kemudahan yang sesuai untuk mencari, mengenal pasti dan membantu masyarakat orang asli yang ingin menyambung pengajian. Program memberi tumpuan di kawasan penempatan orang asli yang akan ditentukan melalui perbincangan bersama Jabatan Kemajuan Orang Asli (JAKOA)."
+    }
+]

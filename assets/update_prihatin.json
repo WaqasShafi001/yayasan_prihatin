@@ -1,0 +1,47 @@
+[
+	{
+		"id":1,
+		"author":"Ahmad Zarif",
+		"date": "2021/03/23:03:02:21",
+		"blockTitle": "Sepetang bersama PRIHATIN",
+		"truncatedText": "Pada hari Sabtu yang lalu, satu program telah berlangsung...",
+		"fullText":"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+		"imgUrl":"https://demo01.yayasanprihatin.com/wp-content/uploads/2021/03/IMG_1290-scaled.jpg"
+	},
+	{
+		"id":2,
+		"author":"Ahmad Hasri",
+		"date": "2021/04/23:03:02:21",
+		"blockTitle": "Jelajah Pendidikan Bumiputera",
+		"truncatedText": "Jelajah Pendidikan Bumiputera (JPB) merupakan satu program bermatlamat....",
+		"fullText":"Jelajah Pendidikan Bumiputera (JPB) merupakan satu program bermatlamat Mencari, Mengenal dan Mambantu pelajar lepasan SPM yang berkelayakan untuk melanjutkan pengajian di Menara Gading.",
+		"imgUrl":"https://demo01.yayasanprihatin.com/wp-content/uploads/2021/02/6-1.jpg"
+	},
+	{
+		"id":3,
+		"author":"Zaqwan Cik",
+		"date": "2021/04/23:03:02:21",
+		"blockTitle": "Kembara Ramadhan PRIHATIN",
+		"truncatedText": "Kembara Ramadhan PRIHATIN merupakan program melibatkan pelajar MDAB UiTM...",
+		"fullText":"Kembara Ramadhan PRIHATIN merupakan program melibatkan pelajar MDAB UiTM berbentuk perkongsian ilmu oleh YBhg Dato’ Mohd Aizuddin Mohd Ghazali mengenai perjalanan hidup beliau untuk memotivasikan pelajar MDAB ini supaya lebih bersemangat meneruskan perjuangan menuntut ilmu. Di samping itu, diadakan sama majlis berbuka puasa bersama pelajar-pelajar tersebut dan pada masa yang sama PRIHATIN turut menyediakan sumbangan raya kepada pelajar miskin dan juga anak yatim untuk meringankan beban mereka. Kembara ini telah menjelajah ke Negeri Pahang, Sarawak, Perak, Kelantan dan Kedah.",
+		"imgUrl":"https://demo01.yayasanprihatin.com/wp-content/uploads/2021/02/5-3.jpg"
+	},
+	{
+		"id":4,
+		"author":"Ernie Hasrita",
+		"date": "2021/05/23:03:02:21",
+		"blockTitle": "Jelajah UiTM di Hati Rakyat",
+		"truncatedText": "Satu siri jelajah ke seluruh Malaysia yang dianjurkan oleh Universiti Teknologi MARA (UiTM) dengan kerjasama PRIHATIN...",
+		"fullText":"Satu siri jelajah ke seluruh Malaysia yang dianjurkan oleh Universiti Teknologi MARA (UiTM) dengan kerjasama PRIHATIN dan Gerakan Destini Anak Bangsa (GDAB) untuk mencari pelajar-pelajar miskin di luar bandar melanjutkan pengajian ke UiTM.",
+		"imgUrl":"https://demo01.yayasanprihatin.com/wp-content/uploads/2021/02/3-1.jpg"
+	},
+	{
+		"id":5,
+		"author":"Azri Yunus",
+		"date": "2021/06/23:03:02:21",
+		"blockTitle": "Sumbangan kepada Pelajar Cemerlang SPM dan STPM Kelantan",
+		"truncatedText": "PRIHATIN telah menyampaikan sumbangan kepada pelajar cemerlang peperiksaan SPM dan STPM...",
+		"fullText":"PRIHATIN telah menyampaikan sumbangan kepada pelajar cemerlang peperiksaan SPM dan STPM di kawasan Parlimen Pasir Mas. Seramai 265 pelajar dari seluruh kawasan Parlimen Pasir Mas menerima sumbangan berjumlah RM40,000. Mereka turut diberi taklimat mengenai Program Mengubah Destini Anak Bangsa (MDAB) yang disampaikan YBhg Dato’ Mohd Aizuddin bin Mohd Ghazali.",
+		"imgUrl":"https://demo01.yayasanprihatin.com/wp-content/uploads/2021/02/8.jpg"
+	}
+]
